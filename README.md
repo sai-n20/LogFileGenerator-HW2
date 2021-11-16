@@ -1,11 +1,6 @@
-# Homework 2
+### Detailed description in docs folder
 
-## Name: Sai Nadkarni
-## UIN: 672756678
-## NetID: snadka2
-## Instructions and documentation:
-
-### Detiled description in docs folder
+### Forked from own secondary account made for university.
 
 ## Project set up
 + Clone the project or download the repo in a zip format
@@ -27,14 +22,6 @@ sbt clean compile run
 sbt clean compile assembly
 (in appropriate hadoop fs) hadoop fs jar-file.jar input/ output/
 ```
-
-### Explanation video:
-
-Google Drive- https://drive.google.com/file/d/1R5ZtMwe08oJCvnkmx12b8ey7N8dptQY-/view?usp=sharing
-
-YouTube- https://youtu.be/3HQkevVeOUk
-
-Includes explanation of code as well.
 
 ### The goal of this homework is for students to gain experience with solving a distributed computational problem using cloud computing technologies. The main textbook group (option 1) will design and implement an instance of the map/reduce computational model whereas the alternative textbook group (option 2) will use the CORBA model. You can check your textbook option in the corresponding column of the gradebook on the Blackboard.
 ### Grade: 9%
