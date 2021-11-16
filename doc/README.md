@@ -23,14 +23,6 @@ sbt clean compile assembly
 (in appropriate hadoop fs) hadoop fs jar-file.jar input/ output/
 ```
 
-### Explanation video:
-
-Google Drive- https://drive.google.com/file/d/1R5ZtMwe08oJCvnkmx12b8ey7N8dptQY-/view?usp=sharing
-
-YouTube- https://youtu.be/3HQkevVeOUk
-
-Includes explanation of code as well.
-
 ## Application Design
 
 These are the main M/R files found in the src/scala directory:-
